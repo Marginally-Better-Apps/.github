@@ -1,6 +1,6 @@
 ## Marginally Better Apps
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a4a9da98-8d97-4eb6-abd2-3f800b14442b" />
+<img src="https://github.com/user-attachments/assets/a4a9da98-8d97-4eb6-abd2-3f800b14442b" width="20%" alt="image" />
 
 ### Who are we?
 
